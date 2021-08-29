@@ -18,9 +18,10 @@
   <img align="center" alt="Alvaro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-yoda" src="https://c.tenor.com/KOMN72qhJ-sAAAAC/haikyuu-hinata.gif"  height="140"  width="180">
    
-  ![Snake animation](https://github.com/AlvaroSilva/AlvaroSilva/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 </div>
+ 
+ ![Snake animation](https://github.com/alvaro5801/alvaro5801/blob/output/github-contribution-grid-snake.svg)
  
  
 
