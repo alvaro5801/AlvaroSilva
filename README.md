@@ -15,13 +15,16 @@
  ##
  
  <div style="display: inline_block"><br>
+  
   <img align="center" alt="Alvaro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-yoda" src="https://c.tenor.com/KOMN72qhJ-sAAAAC/haikyuu-hinata.gif"  height="140"  width="180">
    
+  ##
  
 </div>
 
 
+ 
  
 ![Snake animation](https://github.com/alvaro5801/alvarosilva/blob/output/github-contribution-grid-snake.svg)
  
