@@ -26,7 +26,7 @@
 
  
  
-![Snake animation](https://github.com/alvaro5801/alvarosilva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alvaro5801/AlvaroSilva/blob/output/github-contribution-grid-snake.svg)
  
 
 
