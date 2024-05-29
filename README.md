@@ -1,9 +1,9 @@
 ## Olá, eu sou o AlvaroSilva
 
-- 😁 Me chamo Álvaro, sou estudante do Curso Analise e Desenvolvimento de Sistemas.
+- 😁 Me chamo Álvaro, estudo programação voltada para machine learning.
 - 😍 Apaixonado por livros de Aventura e RPG.
 - 👾 Curto Games em geral.
-- 💻 Estudando C# e Azure Atualmente.
+- 💻 Estudando Python e Azure Atualmente.
 - ✉ Contate-me por E-mail: alvaro.rs580@gmail.com
 
  <div>
